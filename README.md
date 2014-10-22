@@ -1,3 +1,3 @@
 minesweeper
 ===========
-Привет всем rnj yf cdzpb
+test commit
